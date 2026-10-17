@@ -1,0 +1,9 @@
+poc-02-linux-server-administration/
+├── README.md
+├── .gitignore
+├── PROJECT_STRUCTURE.txt
+├── docs/
+│   ├── commands-reference.md
+│   └── troubleshooting.md
+└── evidence/
+    └── README.md

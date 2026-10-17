@@ -1,0 +1,13 @@
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+credentials
+.aws/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
